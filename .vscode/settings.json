@@ -1,0 +1,18 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "python.formatting.provider": "none",
+  "cSpell.words": [
+    "columnspan",
+    "customtkinter",
+    "detokenize",
+    "gguf",
+    "Ladybot",
+    "padx",
+    "pady",
+    "pyttsx",
+    "scrollbars",
+    "yscrollcommand"
+  ]
+}
